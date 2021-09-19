@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/ivelinsm/Social-proof-section-challenge)
+- Live Site URL: [Github Pages](https://ivelinsm.github.io/Social-proof-section-challenge/)
 
 ## My process
 
@@ -45,9 +45,8 @@ I had some problems positioning backgrounds and this was a good challenge to tra
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@ivelinsm](https://github.com/ivelinsm)
+- Frontend Mentor - [@ivelinsm](https://www.frontendmentor.io/profile/ivelinsm)
 
 ## Acknowledgments
 
